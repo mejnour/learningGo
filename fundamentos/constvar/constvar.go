@@ -23,5 +23,9 @@ func main() {
 
 	fmt.Println(a, b, c, d)
 
-	var e, f bool = true, false
+	// var e, f bool = true, false
+
+	g, h, i := 2, false, "êpa!"
+	fmt.Println(g, h, i)
+
 }
